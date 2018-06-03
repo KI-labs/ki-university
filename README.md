@@ -1,9 +1,9 @@
 
 # What's this about?
 
-**KI University** initiative is all about knowledge-sharing, mentorship and empowering each other. It will act as a manifestation of the kind of values we strongly believe in as KI labs. 
+**KI University** initiative is all about knowledge-sharing, mentorship and empowering each other. It will act as a manifestation of the kind of values we strongly believe in at **[KI labs](https://ki-labs.com)**. 
 
-For now, plan is to do it **bi-weekly on Thursdays 4 pm – 5 pm** unless we don’t have any speaker. Please register your topics using this [Google Form](https://goo.gl/forms/A7gG2mG4YPGJbZP02) which means we need you as a SPEAKER ;) Remember, this is the first iteration and things will improve as we learn what works and what not. 
+For now, plan is to do it **bi-weekly on Thursdays 4 pm – 5 pm** unless we don’t have any speaker. Remember, this is the first iteration and things will improve as we learn what works and what not. 
 
 Some basic guidelines: -
 

@@ -14,3 +14,22 @@ Some basic guidelines: -
 - Ideally talks should take somewhere between 10 - 15 mins to keep it engaging and short enough to retain interest.
 - Topic could be anything and not limited to: Any useful tool you would like to share, some challenging problem you solved, some cool research you read about or want to just share something inspirational. Anything and Everything is welcome but obviously something which is somewhat related to our work in general.
 - You are not bound to have a slide but it’ll be nice to have one. We’ll find a way to publish them from KI labs account. The bottom-line is that you are prepared enough to convey the knowledge in an appropriate manner.
+
+
+## Previous Talks
+
+### Session #1 - 3rd May
+
+  - **Google Design Sprint** by [Wahib](https://github.com/wahibhaq)
+  
+  <script async class="speakerdeck-embed" data-id="b13b5fb5ca704e12b461500057b88ab0" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+### Session #2 - 24th May
+
+  - **Block chain Basics** by Riswan
+
+  Introduction to Blockchain technology
+
+  - **Path to impact: People** by Danial
+
+  This is a general talk how to work with people better and scale your impact radius.

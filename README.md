@@ -1,10 +1,9 @@
-# KI University
 
-## What's this about?
+# What's this about?
 
 **KI University** initiative is all about knowledge-sharing, mentorship and empowering each other. It will act as a manifestation of the kind of values we strongly believe in as KI labs. 
 
-For now, plan is to do it **bi-weekly on Thursdays 4 pm – 5 pm** unless we don’t have any speaker. First one will be next **Thursday, 3rd May** which means we need you as a SPEAKER ;) Please register your topics using this [Google Form](https://goo.gl/forms/A7gG2mG4YPGJbZP02). Remember, this is the first iteration and things will improve as we learn what works and what not. 
+For now, plan is to do it **bi-weekly on Thursdays 4 pm – 5 pm** unless we don’t have any speaker. Please register your topics using this [Google Form](https://goo.gl/forms/A7gG2mG4YPGJbZP02) which means we need you as a SPEAKER ;) Remember, this is the first iteration and things will improve as we learn what works and what not. 
 
 Some basic guidelines: -
 
@@ -16,20 +15,20 @@ Some basic guidelines: -
 - You are not bound to have a slide but it’ll be nice to have one. We’ll find a way to publish them from KI labs account. The bottom-line is that you are prepared enough to convey the knowledge in an appropriate manner.
 
 
-## Previous Talks
+# Previous Talks
 
-### Session #1 - 3rd May
+## Session #1 - 3rd May
 
-  - **Google Design Sprint** by [Wahib](https://github.com/wahibhaq)
+  **Google Design Sprint** by [Wahib](https://github.com/wahibhaq)
   
   <script async class="speakerdeck-embed" data-id="b13b5fb5ca704e12b461500057b88ab0" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-### Session #2 - 24th May
+## Session #2 - 24th May
 
-  - **Block chain Basics** by Riswan
+  **Block chain Basics** by Riswan
 
   Introduction to Blockchain technology
 
-  - **Path to impact: People** by Danial
+  **Path to impact: People** by Danial
 
   This is a general talk how to work with people better and scale your impact radius.

@@ -25,7 +25,9 @@ Some basic guidelines: -
 
 ## Session #2 - 24th May
 
-  **Block chain Basics** by Riswan
+  **Block chain Basics** by [Riswan](https://github.com/rayoriz)
+  
+  <script async class="speakerdeck-embed" data-id="c9755ff106b145159957d32d33588168" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
   Introduction to Blockchain technology
 

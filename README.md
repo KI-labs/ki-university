@@ -19,7 +19,7 @@ Some basic guidelines: -
 
 ## Session #1 - 3rd May
 
-  **Google Design Sprint** by [Wahib](https://github.com/wahibhaq)
+  **Google Design Sprint** by [Wahib](https://twitter.com/wahibhaq)
   
   <script async class="speakerdeck-embed" data-id="b13b5fb5ca704e12b461500057b88ab0" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
@@ -32,3 +32,9 @@ Some basic guidelines: -
   **Path to impact: People** by Danial
 
   This is a general talk how to work with people better and scale your impact radius.
+  
+## Session #3 - 7th June
+
+  **What's in the Toolbox** by [Mustafa](https://github.com/mfkaptan)
+
+  <iframe src=“//slides.com/mfkaptan/toolbox/embed” width=“576" height=“420” scrolling=“no” frameborder=“0” webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

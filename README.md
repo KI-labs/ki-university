@@ -37,4 +37,4 @@ Some basic guidelines: -
 
   **What's in the Toolbox** by [Mustafa](https://github.com/mfkaptan)
 
-<iframe src=“https://slides.com/mfkaptan/toolbox/embed” width=“576" height=“420” scrolling=“no” frameborder=“0” webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
+<iframe src=“//slides.com/mfkaptan/toolbox/embed” width=“576" height=“420” scrolling=“no” frameborder=“0”></iframe>

@@ -40,3 +40,8 @@ Some basic guidelines: -
   **What's in the Toolbox** by [Mustafa](https://github.com/mfkaptan)
 
   <iframe src="//slides.com/mfkaptan/toolbox/embed" width="576" height="420" scrolling="no" frameborder="0"></iframe>
+  
+  **Hack your way to create a Website/Blog** by [Wahib](https://twitter.com/wahibhaq)
+  
+  <script async class="speakerdeck-embed" data-id="491686710857561" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  

@@ -43,5 +43,5 @@ Some basic guidelines: -
   
   **Hack your way to create a Website/Blog** by [Wahib](https://twitter.com/wahibhaq)
   
-  <script async class="speakerdeck-embed" data-id="491686710857561" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  <script async class="speakerdeck-embed" data-id="764807e89b8a4c19862ff4e1453e7070" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
   

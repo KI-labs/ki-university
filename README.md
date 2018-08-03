@@ -22,6 +22,10 @@ Some basic guidelines: -
   **Google Design Sprint** by [Wahib](https://twitter.com/wahibhaq)
   
   <script async class="speakerdeck-embed" data-id="b13b5fb5ca704e12b461500057b88ab0" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  
+  **Internationalisation and Localisation in Django 2.0** by [Ahmed](https://github.com/mahmedk91)
+
+  <script async class="speakerdeck-embed" data-id="2e524d90d1cd41b19ff94d3020ee53af" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## Session #2 - 24th May
 

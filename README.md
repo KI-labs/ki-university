@@ -49,7 +49,7 @@ Some basic guidelines: -
   
   <script async class="speakerdeck-embed" data-id="764807e89b8a4c19862ff4e1453e7070" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
   
-## Session #4 - 2nd August
+## Session #6 - 2nd August
 
  **PAEI model 101** by [Rishat](https://twitter.com/taxigy)
 

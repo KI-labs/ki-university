@@ -49,7 +49,15 @@ Some basic guidelines: -
   
   <script async class="speakerdeck-embed" data-id="764807e89b8a4c19862ff4e1453e7070" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
   
-## Session #6 - 2nd August
+  **Functional Programming 101** by [Rishat](https://twitter.com/taxigy)
+
+  <script async class="speakerdeck-embed" data-id="cedb4c658c8f400f9c13deacee3da282" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  
+## Session #4 - 21st June
+
+ 
+  
+## Session #5 - 2nd August
 
  **PAEI model 101** by [Rishat](https://twitter.com/taxigy)
 

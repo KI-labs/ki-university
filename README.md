@@ -62,4 +62,10 @@ Some basic guidelines: -
  **PAEI model 101** by [Rishat](https://twitter.com/taxigy)
 
  <script async class="speakerdeck-embed" data-id="b170cdfaeb94411dabcd0bdf55e04608" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+## Session #6 - 24th August
+
+ **Neural Style and Deepfakes** by [Martin]()
+
+ <script async class="speakerdeck-embed" data-id="009522bef88a439b8ddb15e28e306625" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
   

@@ -17,28 +17,31 @@ Some basic guidelines: -
 
 # Previous Talks
 
-## Session #1 - 3rd May
+## Session #7 - 20th Sep
 
-  **Google Design Sprint** by [Wahib](https://twitter.com/wahibhaq)
-  
-  <script async class="speakerdeck-embed" data-id="b13b5fb5ca704e12b461500057b88ab0" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-  
-  **Internationalisation and Localisation in Django 2.0** by [Ahmed](https://github.com/mahmedk91)
 
-  <script async class="speakerdeck-embed" data-id="2e524d90d1cd41b19ff94d3020ee53af" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-## Session #2 - 24th May
+## Session #6 - 24th August
 
-  **Block chain Basics** by [Riswan](https://github.com/rayoriz)
-  
-  <script async class="speakerdeck-embed" data-id="c9755ff106b145159957d32d33588168" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+ **Neural Style and Deepfakes** by [Martin]()
 
-  Introduction to Blockchain technology
+ <script async class="speakerdeck-embed" data-id="009522bef88a439b8ddb15e28e306625" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-  **Path to impact: People** by Danial
 
-  This is a general talk how to work with people better and scale your impact radius.
-  
+
+## Session #5 - 2nd August
+
+ **PAEI model 101** by [Rishat](https://twitter.com/taxigy)
+
+ <script async class="speakerdeck-embed" data-id="b170cdfaeb94411dabcd0bdf55e04608" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+
+## Session #4 - 21st June
+
+No slides to publish
+
+
+
 ## Session #3 - 7th June
 
   **What's in the Toolbox** by [Mustafa](https://github.com/mfkaptan)
@@ -52,20 +55,39 @@ Some basic guidelines: -
   **Functional Programming 101** by [Rishat](https://twitter.com/taxigy)
 
   <script async class="speakerdeck-embed" data-id="cedb4c658c8f400f9c13deacee3da282" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+
+
+## Session #2 - 24th May
+
+  **Block chain Basics** by [Riswan](https://github.com/rayoriz)
   
-## Session #4 - 21st June
+  <script async class="speakerdeck-embed" data-id="c9755ff106b145159957d32d33588168" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+  Introduction to Blockchain technology
+
+  **Path to impact: People** by Danial
+
+  This is a general talk how to work with people better and scale your impact radius.
+
+
+
+## Session #1 - 3rd May
+
+  **Google Design Sprint** by [Wahib](https://twitter.com/wahibhaq)
+  
+  <script async class="speakerdeck-embed" data-id="b13b5fb5ca704e12b461500057b88ab0" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  
+  **Internationalisation and Localisation in Django 2.0** by [Ahmed](https://github.com/mahmedk91)
+
+  <script async class="speakerdeck-embed" data-id="2e524d90d1cd41b19ff94d3020ee53af" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+  
+
+  
 
  
-  
-## Session #5 - 2nd August
 
- **PAEI model 101** by [Rishat](https://twitter.com/taxigy)
 
- <script async class="speakerdeck-embed" data-id="b170cdfaeb94411dabcd0bdf55e04608" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-## Session #6 - 24th August
-
- **Neural Style and Deepfakes** by [Martin]()
-
- <script async class="speakerdeck-embed" data-id="009522bef88a439b8ddb15e28e306625" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
   

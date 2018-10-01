@@ -19,7 +19,9 @@ Some basic guidelines: -
 
 ## Session #7 - 20th Sep
 
+ **Pecha kucha Talk on web scraping** by [Nithish]()
 
+ <iframe src="//www.slideshare.net/slideshow/embed_code/key/ogc8OTOOaMjkAC" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/nithishrw/pecha-kucha-talk-on-web-scraping" title="Pecha kucha Talk on web scraping" target="_blank">Pecha kucha Talk on web scraping</a> </strong> from <strong><a href="//www.slideshare.net/nithishrw" target="_blank">Nithish Raghunandanan</a></strong> </div>
 
 ## Session #6 - 24th August
 

@@ -19,6 +19,11 @@ Some basic guidelines: -
 
 ## Session #7 - 20th Sep
 
+**Simple Cars with Complex Software** by Josh
+
+<script async class="speakerdeck-embed" data-id="768f16f7a3b148ff83faf5afe970ecdc" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+
  **Pecha kucha Talk on web scraping** by [Nithish](https://twitter.com/nithishr)
 
  <iframe src="//www.slideshare.net/slideshow/embed_code/key/ogc8OTOOaMjkAC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>

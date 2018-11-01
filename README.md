@@ -17,7 +17,14 @@ Some basic guidelines: -
 
 # Previous Talks
 
-## Session #7 - 20th Sep
+## Session #9 - 26th Oct 2018
+
+** Kotlin, What the hype?** by [Wahib](https://twitter.com/wahibhaq)
+
+<script async class="speakerdeck-embed" data-id="dcb3a30f07c5409ca21fa773445e7f6b" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+
+## Session #7 - 20th Sep 2018
 
 **Simple Cars with Complex Software** by Josh
 
@@ -28,7 +35,7 @@ Some basic guidelines: -
 
  <iframe src="//www.slideshare.net/slideshow/embed_code/key/ogc8OTOOaMjkAC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-## Session #6 - 24th August
+## Session #6 - 24th August 2018
 
  **Neural Style and Deepfakes** by [Martin]()
 
@@ -36,20 +43,20 @@ Some basic guidelines: -
 
 
 
-## Session #5 - 2nd August
+## Session #5 - 2nd August 2018
 
  **PAEI model 101** by [Rishat](https://twitter.com/taxigy)
 
  <script async class="speakerdeck-embed" data-id="b170cdfaeb94411dabcd0bdf55e04608" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 
-## Session #4 - 21st June
+## Session #4 - 21st June 2018
 
 No slides to publish
 
 
 
-## Session #3 - 7th June
+## Session #3 - 7th June 2018
 
   **What's in the Toolbox** by [Mustafa](https://github.com/mfkaptan)
 
@@ -65,7 +72,7 @@ No slides to publish
 
 
 
-## Session #2 - 24th May
+## Session #2 - 24th May 2018
 
   **Block chain Basics** by [Riswan](https://github.com/rayoriz)
   
@@ -79,7 +86,7 @@ No slides to publish
 
 
 
-## Session #1 - 3rd May
+## Session #1 - 3rd May 2018
 
   **Google Design Sprint** by [Wahib](https://twitter.com/wahibhaq)
   

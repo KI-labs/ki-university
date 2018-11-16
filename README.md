@@ -14,6 +14,8 @@ Some basic guidelines: -
 - Topic could be anything and not limited to: Any useful tool you would like to share, some challenging problem you solved, some cool research you read about or want to just share something inspirational. Anything and Everything is welcome but obviously something which is somewhat related to our work in general.
 - You are not bound to have a slide but it’ll be nice to have one. We’ll find a way to publish them from KI labs account. The bottom-line is that you are prepared enough to convey the knowledge in an appropriate manner.
 
+For any kind of queries, contact Wahib via [email](w.ul-haq@kigroup.de) or [twitter](https://twitter.com/wahibhaq).
+
 
 # Previous Talks
 

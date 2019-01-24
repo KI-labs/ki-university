@@ -19,6 +19,12 @@ For any kind of queries, contact Wahib via [email](w.ul-haq@kigroup.de) or [twit
 
 # Previous Talks
 
+## Session #12 - 10th Jan 2019
+
+** Software Architecture for Distributed System ** by [Felix](https://speakerdeck.com/fe9lix)
+
+<script async class="speakerdeck-embed" data-id="3e4c4bff43b041219fadec182f884a9d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 ## Session #9 - 26th Oct 2018
 
 ** Kotlin, What the hype?** by [Wahib](https://twitter.com/wahibhaq)

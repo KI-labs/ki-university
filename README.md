@@ -25,6 +25,12 @@ For any kind of queries, contact Wahib via [email](w.ul-haq@kigroup.de) or [twit
 
 <script async class="speakerdeck-embed" data-id="af4a2483cd984d58bec32b2b59fa3945" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
+**What are linux containers?** by [Zeynel](https://github.com/zeyneloz)
+
+> What are linux containers and how to build one from scratch using golang
+
+<script async class="speakerdeck-embed" data-id="c69fd81148c84c3094560d260310a1ba" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 
 ## Session: 10th Jan 2019
 
